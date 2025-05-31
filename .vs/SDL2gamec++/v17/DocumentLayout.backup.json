@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSproject\\SDL2gamec\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|D:\\VSproject\\SDL2gamec\u002B\u002B\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|solutionrelative:Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|D:\\VSproject\\SDL2gamec\u002B\u002B\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|D:\\VSproject\\SDL2gamec\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|D:\\VSproject\\SDL2gamec\u002B\u002B\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|solutionrelative:map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|D:\\VSproject\\SDL2gamec\u002B\u002B\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{904FFCC4-6B07-4A39-AEDD-EA95FE4734AA}|SDL2gamec\u002B\u002B.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VSproject\\SDL2gamec\u002B\u002B\\SDL2gamec\u002B\u002B\\x64\\Debug\\game.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SDL2gamec\u002B\u002B\\x64\\Debug\\game.obj||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "D:\\VSproject\\SDL2gamec\u002B\u002B\\Bullet.h",
+              "RelativeDocumentMoniker": "Bullet.h",
+              "ToolTip": "D:\\VSproject\\SDL2gamec\u002B\u002B\\Bullet.h",
+              "RelativeToolTip": "Bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-31T05:11:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\VSproject\\SDL2gamec\u002B\u002B\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "D:\\VSproject\\SDL2gamec\u002B\u002B\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-31T05:11:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VSproject\\SDL2gamec\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\VSproject\\SDL2gamec\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-31T05:11:03.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "map.cpp",
+              "DocumentMoniker": "D:\\VSproject\\SDL2gamec\u002B\u002B\\map.cpp",
+              "RelativeDocumentMoniker": "map.cpp",
+              "ToolTip": "D:\\VSproject\\SDL2gamec\u002B\u002B\\map.cpp",
+              "RelativeToolTip": "map.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T15:23:50.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player.cpp",
+              "DocumentMoniker": "D:\\VSproject\\SDL2gamec\u002B\u002B\\player.cpp",
+              "RelativeDocumentMoniker": "player.cpp",
+              "ToolTip": "D:\\VSproject\\SDL2gamec\u002B\u002B\\player.cpp",
+              "RelativeToolTip": "player.cpp",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAABUBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-31T04:31:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.obj",
+              "DocumentMoniker": "D:\\VSproject\\SDL2gamec\u002B\u002B\\SDL2gamec\u002B\u002B\\x64\\Debug\\game.obj",
+              "RelativeDocumentMoniker": "SDL2gamec\u002B\u002B\\x64\\Debug\\game.obj",
+              "ToolTip": "D:\\VSproject\\SDL2gamec\u002B\u002B\\SDL2gamec\u002B\u002B\\x64\\Debug\\game.obj",
+              "RelativeToolTip": "SDL2gamec\u002B\u002B\\x64\\Debug\\game.obj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASJSURBVDhPlZNfaFNnGMafk5MmMWn\u002BtTP1JK2tSTmZXdIYktQisVKFQM0csVBGGaLuJrM3XggDr9xdb6bbetEbe6GgsAlOmEVNcNViS9fpRdeaEBNHC4Zm6ZJz8uckPUlzcnahzahOZD/44Hv53vd5nxfeD3gLmqblqVTKznHcQ47jGI7jfonH4z0URTW9nfsOoijuiH0\u002Bn3phYWGgUCj8evfu3czU1FT1wYMHGyzLTs/Pz3u8Xq9qR8F/QG5fTp48qQ0Gg4d7e3uDi4uLA48ePWqORCJSlmXlMpmsrbe3dzdFURmO4zKJRKKyU\u002BZfSLxxFgwGD7tcrtFIJPLZ/fv3lfF4XJLNZpHP5yX5fF6u0\u002BksDoeDaGlpyWUymY1kMlkdGhrSuN1upVwuJ1KpVA0ASJqm5RMTE26bzfZVJBL5dHp6Wvn8\u002BXOiUnltolqtgmEYguf5pn379tF9fX2bFoslsrS0xE9OTvadOnWqW6lUSpeWlph8Pl8nUqmUXaVSfT8/P\u002B8Jh8Oq5eVlol6v7xhDoVDA7XZjZGSkZDabr21tbV3d3NxUNDc3/yCRSNqr1er0wsLCt36//0\u002BiVCo9nJmZcc7OzmpjsZikVCrtENPpdLDZbAgEAti7d6\u002Bwa9eudQDrtVqNnJmZsXIcpzCbzesWi\u002BXhs2fPxqUEQbjS6XTzxsbGO2J4M3I6ncbc3ByamppIAB0AOgRBQDQaBc/zSCaTJolE4hscHOSloig\u002BaW9v7zeZTPpcLkcWi0UAgFarBUVR0Ol0qFaruHfvHrq6ukCSJNLpNBiGaTQVBEFqMBiMDofjC/LMmTN/0DT9iUwm210oFOTZbJaQSqVwOp314eFhbmRkhHc4HIrHjx/j9OnTcDqdYFkWyWQSACCVSmEwGMTu7u6K1Wr9S3LkyJFENBr9xuVyhf1\u002BP\u002B/xeODxeBAIBPj9\u002B/ffFEXxu4YVALVaDdsbAABmsxnHjh2r\u002Bny\u002BqCiKYyTHcfV4PJ6nKOrvAwcOEJ2dnXRPT8\u002BWyWSaunPnzo/hcLjudDqHQ6EQ3G43aJqGWq1GsVhEW1sbjh49Co/Hs5LNZm\u002BOjY1NSwFgbm6upNFofhcEQXL8\u002BPEyANy6deun69evr\u002Bj1esPZs2cbjvR6Pex2O0RRRDQahSAIKJfLSoVC8ZHValU0vl4ikahkMpk0RVEra2trv42PjyeePn26abVaP/b7/Z\u002BHQiG0trZCEATkcjmQJIlYLIbV1VVUKhWN2Wze7ff7s0Sj9Xs4ceJEYHJy8ueLFy\u002BCYRgIgtA423R0dGBgYEAYHR0tSnZUvwetVotLly7hypUrOHfuHOx2\u002B9spDRojv49yuVx69erVyuDg4OKePXtaWJZtffnyJbm\u002Bvg4AMJlMOHjw4JbX613VarUTHxQsFAqFFy9eLMtksoTRaJSoVCo9z/NtDMOQGo0G/f39W4cOHYqp1erbN27cuPZBQQCoVCri7OwsZzQaV202G2GxWDpFUdR3dXXVvV7vmlqtvh0Kha6eP3/\u002B9bb/Hy5cuGDgOO7LcrnMlstlluO4ry9fvmzafv8HGd8McOKgKM0AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-31T03:31:23.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
