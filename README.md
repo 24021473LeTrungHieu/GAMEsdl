@@ -28,6 +28,7 @@ Cách chơi :
 
 + Bắn súng: 2
 
+Game tự do em viết và có tham khảo của 1 số bạn trong lớp.
 
 VIDEO GIẢI THÍCH CẤU TRÚC GAME , TEST GAME VÀ BẢO VỀ NGƯỠNG ĐIỂM MONG MUỐN:
 
