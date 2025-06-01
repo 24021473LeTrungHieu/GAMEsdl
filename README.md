@@ -26,12 +26,14 @@ Cách chơi :
 
 + Bắn súng: 2
 
+
 VIDEO GIẢI THÍCH CẤU TRÚC GAME , TEST GAME VÀ BẢO VỀ NGƯỠNG ĐIỂM MONG MUỐN:
 
 
-Mức độ sử dụng AI:
 
+Mức độ sử dụng AI:
 AI được sử dụng để tìm hiểu thêm về các hàm trong SDL2 và là phương án cuối cùng để Debug khi gặp Bug khó.
+
 
 Các nguồn tham khảo:
 
