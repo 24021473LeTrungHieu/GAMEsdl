@@ -5,7 +5,7 @@ Mã sinh viên : 24021473
 
 Lớp : CS5
 
-Ngưỡng điểm mong muốn : 7,5đ - 8,5đ
+Ngưỡng điểm mong muốn : 8đ - 9đ
 
 (Do sơ xuất của em mà em đã quên up code lên git , đến gần hôm nộp bài em mới nhớ ra . Nếu do thời gian up code muộn mà thầy/cô cho e số điểm thấp hơn , em xin chấp nhận . Em cảm ơn thầy/cô nhiều ạ!!!)
 
