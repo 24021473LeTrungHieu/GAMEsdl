@@ -13,6 +13,7 @@ Cách chơi :
 - 🎮 Player 2: + Di chuyển: ↑, ←, ↓, →
                 + Tấn công bằng kiếm: 1
                  + Bắn súng: 2
+
 VIDEO GIẢI THÍCH CẤU TRÚC GAME , TEST GAME VÀ BẢO VỀ NGƯỠNG ĐIỂM MONG MUỐN:
 
 Mức độ sử dụng AI:
