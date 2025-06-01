@@ -7,6 +7,8 @@ Lớp : CS5
 
 Ngưỡng điểm mong muốn : 7,5đ - 8,5đ
 
+(Do sơ xuất của em mà em đã quên up code lên git , đến gần hôm nộp bài em mới nhớ ra . Nếu do thời gian up code muộn mà thầy/cô cho e số điểm thấp hơn , em xin chấp nhận . Em cảm ơn thầy/cô nhiều ạ!!!)
+
 Cách chơi :
 - Mỗi người chơi có 100 máu, tấn công bằng kiếm -15 máu, trúng đạn -10 máu.
 
