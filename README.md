@@ -10,16 +10,21 @@ Ngưỡng điểm mong muốn : 7,5đ - 8,5đ
 Cách chơi :
 - Mỗi người chơi có 100 máu, tấn công bằng kiếm -15 máu, trúng đạn -10 máu.
 
-- 🎮 Player 1: + Di chuyển: W, A, S, D
+- 🎮 Player 1:
 
-   + Tấn công bằng kiếm: J
++ Di chuyển: W, A, S, D
 
-   + Bắn súng: K
-- 🎮 Player 2: + Di chuyển: ↑, ←, ↓, →
++ Tấn công bằng kiếm: J
 
-  + Tấn công bằng kiếm: 1
++ Bắn súng: K
+  
+- 🎮 Player 2:
 
-       + Bắn súng: 2
++ Di chuyển: ↑, ←, ↓, →
+
++ Tấn công bằng kiếm: 1
+
++ Bắn súng: 2
 
 VIDEO GIẢI THÍCH CẤU TRÚC GAME , TEST GAME VÀ BẢO VỀ NGƯỠNG ĐIỂM MONG MUỐN:
 
