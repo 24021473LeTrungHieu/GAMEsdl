@@ -30,7 +30,7 @@ Cách chơi :
 
 Game tự do em viết và có tham khảo của 1 số bạn trong lớp.
 
-VIDEO GIẢI THÍCH CẤU TRÚC GAME , TEST GAME VÀ BẢO VỀ NGƯỠNG ĐIỂM MONG MUỐN:
+VIDEO GIẢI THÍCH CẤU TRÚC GAME , TEST GAME VÀ BẢO VỀ NGƯỠNG ĐIỂM MONG MUỐN:https://drive.google.com/file/d/1qdezY-HufvvPJNs6LNcgOrd9kfwG_j8A/view?usp=sharing
 
 
 
